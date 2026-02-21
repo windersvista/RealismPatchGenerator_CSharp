@@ -1,0 +1,62 @@
+{
+  "6628f3786c4f8a10a65adee4": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.1,
+    "ConflictingItems": [
+      "5efb0da7a29a85116f6ea05f",
+      "5c3df7d588a4501f290594e5",
+      "58864a4f2459770fcc257101",
+      "56d59d3ad2720bdb418b4577",
+      "5c925fa22e221601da359b7b",
+      "5a3c16fe86f77452b62de32a",
+      "5efb0e16aeb21837e749c7ff",
+      "5c0d56a986f774449d5de529",
+      "64b7bbb74b75259c590fa897"
+    ],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "6628f3786c4f8a10a65adee4",
+    "Name": "Soyuz-TM STM-46 \u7B2C\u4E8C\u4EE3 4.6x30 \u5361\u5BBE\u67AA"
+  },
+  "6628f38262cab98c01ffada1": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "magazine",
+    "Ergonomics": 0,
+    "Weight": 0.1,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "6628f38262cab98c01ffada1",
+    "Name": "\u683C\u6D1B\u514B 4.6x30\u300C\u5927\u68D2\u300D33\u53D1\u5F39\u5323",
+    "ReloadSpeed": 0,
+    "MalfunctionChance": 0,
+    "LoadUnloadModifier": 0,
+    "CheckTimeModifier": 0
+  },
+  "6628f38835c496a91efdef37": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "magazine",
+    "Ergonomics": 0,
+    "Weight": 0.1,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "6628f38835c496a91efdef37",
+    "Name": "\u5B9A\u5236\u683C\u6D1B\u514B 4.6x30 SGM\u6218\u672F50\u53D1\u5F39\u9F13",
+    "ReloadSpeed": 0,
+    "MalfunctionChance": 0,
+    "LoadUnloadModifier": 0,
+    "CheckTimeModifier": 0
+  }
+}

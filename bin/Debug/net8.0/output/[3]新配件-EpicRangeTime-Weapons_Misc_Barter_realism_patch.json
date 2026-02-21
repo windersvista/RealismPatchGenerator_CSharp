@@ -1,0 +1,72 @@
+{
+  "b7d643dc4b783b2805c743c9": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.1,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "b7d643dc4b783b2805c743c9",
+    "Name": "9x19 PSO gzh \u5F39\u836F\u7BB1\uFF08900\u53D1\uFF09"
+  },
+  "0554e5da796b8133eb65b389": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.098,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "0554e5da796b8133eb65b389",
+    "Name": "Tamagotchi \u73A9\u5177"
+  },
+  "349f9715d8899a1d4ca845c0": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.140,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "349f9715d8899a1d4ca845c0",
+    "Name": "\u300A\u661F\u9645\u725B\u4ED4\u300B\u9ED1\u80F6\u5531\u7247"
+  },
+  "e44b40d309fa123643258996": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.140,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "e44b40d309fa123643258996",
+    "Name": "\u6CE2\u58EB\u987F\u4E50\u961F\u7CBE\u9009\u96C6\u9ED1\u80F6\u5531\u7247"
+  },
+  "42b95b1bf04e5b70d4005d19": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.391,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "42b95b1bf04e5b70d4005d19",
+    "Name": "\u7D22\u5C3C TPS-L2 \u968F\u8EAB\u542C\u78C1\u5E26\u64AD\u653E\u5668"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "9c06aeb6f02f89a27cae4529": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.1,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "9c06aeb6f02f89a27cae4529",
+    "Name": "MCX Rattler upper receiver"
+  },
+  "dc11a1427ce1fc75d04a1e38": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.1,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "dc11a1427ce1fc75d04a1e38",
+    "Name": "MCX Rattler upper receiver (FDE)"
+  }
+}

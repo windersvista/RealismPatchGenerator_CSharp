@@ -1,0 +1,30 @@
+{
+  "4b81488c78c8a8ac7d37f9b9": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.1,
+    "ConflictingItems": [
+      "55d35ee94bdc2d61338b4568",
+      "55d3632e4bdc2d972f8b4569",
+      "5d440b93a4b9364276578d4b",
+      "5d440b9fa4b93601354d480c",
+      "5c0e2f94d174af029f650d56",
+      "63d3ce0446bd475bcb50f55f",
+      "63d3d44a2a49307baf09386d",
+      "2d2dbf0375f49c5b7ac899ab",
+      "d40c79f8cd80c888bd960068",
+      "44805f562c61dd6f99629991",
+      "cd97339d6bfa982e1539bb1c",
+      "5b62e4a75ec6adea49b29abc",
+      "a6cd0aecdd7c681e6ce5fad0"
+    ],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "4b81488c78c8a8ac7d37f9b9",
+    "Name": "Mechanic\u0027s Colt M4A1 .300 blackout assault rifle"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "685c980215434eb9d07fee41": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.007,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "685c980215434eb9d07fee41",
+    "Name": "EOTech EXPS3 holographic sight cover (ECOT Splinter)"
+  },
+  "685760329044ae9bac9012c3": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.1,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "685760329044ae9bac9012c3",
+    "Name": "Unity Tactical FAST COG sight mount"
+  },
+  "6857624d565daea78886d0c2": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.1,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "6857624d565daea78886d0c2",
+    "Name": "Unity Tactical FAST COG sight mount (FDE)"
+  }
+}

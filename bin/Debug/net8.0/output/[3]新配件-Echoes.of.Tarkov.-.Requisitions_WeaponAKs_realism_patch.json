@@ -1,0 +1,72 @@
+{
+  "6828f3c5a1e409ab7d163228": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.075,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "6828f3c5a1e409ab7d163228",
+    "Name": "\u5361\u62C9\u4EC0\u5C3C\u79D1\u592B AK-12/9 \u201C\u91CE\u725B\u201D 9x39 \u7A81\u51FB\u6B65\u67AA"
+  },
+  "68291dcbc8bb6e883871070f": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.075,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "68291dcbc8bb6e883871070f",
+    "Name": "\u5361\u62C9\u4EC0\u5C3C\u79D1\u592B AK-15 7.62x39 \u7A81\u51FB\u6B65\u67AA"
+  },
+  "682905e1c929663383729e1f": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.075,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "682905e1c929663383729e1f",
+    "Name": "\u5361\u62C9\u4EC0\u5C3C\u79D1\u592B AK-19 5.56x45 \u7A81\u51FB\u6B65\u67AA"
+  },
+  "682912faa514fff2d8f72838": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.075,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "682912faa514fff2d8f72838",
+    "Name": "\u5361\u62C9\u4EC0\u5C3C\u79D1\u592B AK-19-1 .300 BLK \u7A81\u51FB\u6B65\u67AA"
+  },
+  "682f527ae74a24cfa1d3f5c5": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.1,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "682f527ae74a24cfa1d3f5c5",
+    "Name": "\u83B1\u5229\u9632\u52A1 RAK74-P \u534A\u81EA\u52A8\u6B65\u67AA"
+  }
+}

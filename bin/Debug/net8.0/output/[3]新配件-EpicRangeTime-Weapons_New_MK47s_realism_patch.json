@@ -1,0 +1,36 @@
+{
+  "52ce1b65b13e1035808c4fd2": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.1,
+    "ConflictingItems": [
+      "60658776f2cb2e02a42ace2b",
+      "6065878ac9cf8012264142fd"
+    ],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "52ce1b65b13e1035808c4fd2",
+    "Name": "CMMG Mk47 Mutant 5.45X39 assault rifle"
+  },
+  "96f5c38a676e11e13544dfba": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.1,
+    "ConflictingItems": [
+      "60658776f2cb2e02a42ace2b",
+      "6065878ac9cf8012264142fd"
+    ],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "96f5c38a676e11e13544dfba",
+    "Name": "CMMG Mk47 Mutant 9X39 assault rifle"
+  }
+}

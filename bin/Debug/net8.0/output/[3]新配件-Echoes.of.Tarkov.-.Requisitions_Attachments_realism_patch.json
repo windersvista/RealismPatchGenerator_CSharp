@@ -1,0 +1,16 @@
+{
+  "68267e4dc84aa702da36b421": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.1,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "68267e4dc84aa702da36b421",
+    "Name": "Echoes Defense 03-07 Dovetail Mount"
+  }
+}

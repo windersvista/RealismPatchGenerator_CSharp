@@ -1,0 +1,16 @@
+{
+  "6621b1e0bd80eeb4de0c9ed8": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.1,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "6621b1e0bd80eeb4de0c9ed8",
+    "Name": "\u519B\u56E2\u9632\u5F39\u80CC\u5FC3\uFF08\u8150\u8089\uFF09"
+  }
+}

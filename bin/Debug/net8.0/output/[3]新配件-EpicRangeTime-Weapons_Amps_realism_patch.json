@@ -1,0 +1,58 @@
+{
+  "252d9d1d2552909d0a76033c": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.426,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "252d9d1d2552909d0a76033c",
+    "Name": "Ops-Core AMP\u901A\u8BAF\u8033\u6A5F(\u9ED1\u8272)"
+  },
+  "cd54f04eb7f0410772acbf35": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.426,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "cd54f04eb7f0410772acbf35",
+    "Name": "Ops-Core AMP\u901A\u8BAF\u8033\u6A5F(\u9ED1\u8272\u36B3\u7EBA)"
+  },
+  "5b6e75274d865619855c447a": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.426,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "5b6e75274d865619855c447a",
+    "Name": "Ops-Core AMP\u901A\u8BAF\u8033\u6A5F(\u68D5\u8272)"
+  },
+  "7e6c09774462ad3ef5025f08": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.426,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "7e6c09774462ad3ef5025f08",
+    "Name": "Ops-Core AMP\u901A\u8BAF\u8033\u6A5F(\u68D5\u8272\u36B3\u7EBA)"
+  }
+}

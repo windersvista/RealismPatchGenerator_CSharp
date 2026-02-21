@@ -1,0 +1,16 @@
+{
+  "682a97a707ec1d7ca369afc4": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.1,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "682a97a707ec1d7ca369afc4",
+    "Name": "FN SCAR-L MK2 .300 BLK \u7A81\u51FB\u6B65\u67AA"
+  }
+}

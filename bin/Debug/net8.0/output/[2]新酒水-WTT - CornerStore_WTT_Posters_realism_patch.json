@@ -1,0 +1,58 @@
+{
+  "6899a825c682910d509e79ea": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.1,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "6899a825c682910d509e79ea",
+    "Name": "RockaHorse \u98DF\u54C1\u6742\u8D27\u5E97"
+  },
+  "6899a8301e607283607d92d5": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.1,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "6899a8301e607283607d92d5",
+    "Name": "\u559D Four Loko"
+  },
+  "6899a83adca32ad551fdbb46": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.1,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "6899a83adca32ad551fdbb46",
+    "Name": "\u7EA2\u725B\u7ADE\u6280\u573A\u6D77\u62A5"
+  },
+  "6899a8442b5a14bd0fbf2dcb": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.1,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "6899a8442b5a14bd0fbf2dcb",
+    "Name": "\u7EA2\u725B\u5E73\u6D41\u5C42\u8DF3\u4F1E\u6D77\u62A5"
+  }
+}

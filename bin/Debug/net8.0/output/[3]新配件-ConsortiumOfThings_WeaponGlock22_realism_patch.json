@@ -1,0 +1,54 @@
+{
+  "6850956dcf12c18a4d8ed9ab": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.1,
+    "ConflictingItems": [
+      "5a7ad74e51dfba0015068f45"
+    ],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "6850956dcf12c18a4d8ed9ab",
+    "Name": "\u683C\u6D1B\u514B22 .40 S\u0026W \u624B\u67AA"
+  },
+  "6851b17ddcbd0df4a2b4c65f": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "magazine",
+    "Ergonomics": 0,
+    "Weight": 0.1,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "6851b17ddcbd0df4a2b4c65f",
+    "Name": "Glock .40 S\u0026W 15-round magazine",
+    "ReloadSpeed": 0,
+    "MalfunctionChance": 0,
+    "LoadUnloadModifier": 0,
+    "CheckTimeModifier": 0
+  },
+  "68578ef2a309a2ba960103d9": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "magazine",
+    "Ergonomics": 0,
+    "Weight": 0.1,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "68578ef2a309a2ba960103d9",
+    "Name": "Glock .40 S\u0026W KRISS G22 MagEx 31-round magazine",
+    "ReloadSpeed": 0,
+    "MalfunctionChance": 0,
+    "LoadUnloadModifier": 0,
+    "CheckTimeModifier": 0
+  }
+}

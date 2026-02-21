@@ -1,0 +1,30 @@
+{
+  "6673b1ac5cae0610f1079d71": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 3.5,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "6673b1ac5cae0610f1079d71",
+    "Name": "6Sh118 \u7A81\u51FB\u80CC\u5305\uFF08\u9ED1\u8272\uFF09"
+  },
+  "668bc5cd834c88e06b08b928": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 3.5,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "668bc5cd834c88e06b08b928",
+    "Name": "6Sh118 \u7A81\u51FB\u80CC\u5305\uFF08\u9AD8\u5C71\u8FF7\u5F69\uFF09"
+  }
+}

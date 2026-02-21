@@ -1,0 +1,16 @@
+{
+  "682a543094114c092df7373e": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ModType": "",
+    "Ergonomics": 0,
+    "Weight": 0.1,
+    "ConflictingItems": [],
+    "LoyaltyLevel": 1,
+    "VerticalRecoil": 0,
+    "HorizontalRecoil": 0,
+    "AimSpeed": 0,
+    "Accuracy": 0,
+    "ItemID": "682a543094114c092df7373e",
+    "Name": "\u83AB\u6D1B\u7279\u6B66\u5668 VPO-208 .366 TKM \u5361\u5BBE\u67AA"
+  }
+}
