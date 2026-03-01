@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RealismPatchGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+274f5ac3401a83c0f0a4f983e78f82f5cdae98f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a694eeae482a498a6a814192e5650628ce6ea02")]
 [assembly: System.Reflection.AssemblyProductAttribute("RealismPatchGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RealismPatchGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
